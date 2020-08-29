@@ -1,3 +1,3 @@
 function updateObjectWithKeyAndValue(object, key, value) {
-  return object.assign({}, key)
+  return object.assign({}, object, )
 }
