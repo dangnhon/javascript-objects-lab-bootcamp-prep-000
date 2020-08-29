@@ -1,1 +1,3 @@
-function updateObjectsWithKeyAndValue(objects, key, value,) 
+function updateObjectWithKeyAndValue(object, key, value) {
+  
+}
