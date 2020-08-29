@@ -1,3 +1,3 @@
 function updateObjectWithKeyAndValue(object, key, value) {
-  return
+  return object.ass
 }
